@@ -1,9 +1,8 @@
 ---
 title: default
 layout: Course Calendar
-nav_order: 4
+nav_order: 3
 ---
-
 # Course Calendar
 Readings not linked to below and not ordered for this class as print books can be found on our Canvas course site. Go to Files > course readings.
 
