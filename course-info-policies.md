@@ -32,7 +32,7 @@ Please bring the assigned reading with you every day to class.
 ### Attendance, Active Participation, and Weekly Reading Responses (30%)
 You are expected to come to class having completed the reading and assignments listed for each day and prepared to discuss it. Your successful participation in class depends on your preparation. Be sure to complete the reading and other assignments for each class session. Because this class only meets once a week, more than 1 unexcused absence may affect your course grade. Please arrive to class on time.
 
-In addition to doing the reading for each week's class and participating actively in class discussion, you will also submit at least 6 brief responses to the week's assigned reading throughout the semester. These responses will be graded on completion. They are due the night before class each week (e.g., Wednesday nights). Throughout the semester, there will be 7 opportunities to complete a reading response; you must complete 6 of them to receive full credit in this area.
+In addition to doing the reading for each week's class and participating actively in class discussion, you will also submit at least 6 brief responses to the week's assigned reading throughout the semester. These responses will be graded on completion, and they are due the night before class each week (e.g., Wednesday nights). Throughout the semester, there will be 7 opportunities to complete a reading response; you must complete 6 of them to receive full credit in this area.
 
 ### Reception Analysis (25%)
 4-5 page essay analyzing the reception history of one of our course texts.
