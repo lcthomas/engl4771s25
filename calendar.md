@@ -87,9 +87,9 @@ I reserve the right to change the course calendar as needed; adequate advance no
 ### Thursday, March 20
 * Colleen Hoover, *It Ends With Us*  (2016)
 * BookTok videos: Watch at least 1 of the following BookTok compilation videos about Hoover:
-		* https://www.youtube.com/watch?v=Qh_I0y5fZAs
-		* https://www.youtube.com/watch?v=RdbUaR3XIOA
-		* https://www.youtube.com/watch?v=akLjgpkOJWk
+     * <https://www.youtube.com/watch?v=Qh_I0y5fZAs>
+		 * <https://www.youtube.com/watch?v=RdbUaR3XIOA>
+		 * <https://www.youtube.com/watch?v=akLjgpkOJWk>
 * Miller, "The Unlikely Author Who's Absolutely Dominating the Bestseller List," *Slate*, August 7, 2022 <https://slate.com/culture/2022/08/colleen-hoover-books-it-ends-with-us-verity.html>
 * Malin Hay, "BookTok," *London Review of Books*, 45.2 (January 19, 2023)
 * Sarah Brouillette, "Romance Work," *Theory & Event* 22.2 (2019): 451-464
