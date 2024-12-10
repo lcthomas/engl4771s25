@@ -74,7 +74,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 ### Week 8
 #### Thursday, March 13
 * Toni Morrison, *The Bluest Eye* (1970)
-* Goodreads reviews of *The Bluest Eye*: <https://www.goodreads.com/book/show/11337/reviews?reviewFilters={%22workId%22:%22kca://work/amzn1.gr.work.v1.7sx9MWfVNUJzWQPtQc_QTw%22,%22ratingMin%22:5,%22ratingMax%22:5,%22after%22:%22NDY1OSwxNzMwNzgwMDA5ODEx%22}>
+* Goodreads reviews of *The Bluest Eye*: <https://www.goodreads.com/book/show/11337/reviews>
     * Read/skim a selection of 5-star reviews
     * Read/skim a selection of 1-star reviews
 * Melanie Walsh and Maria Antoniak, "The Goodreads 'Classics': A Computational Study of Readers, Amazon, and Crowdsourced Amateur Criticism," *Journal of Cultural Analytics*, April 20, 2021
@@ -100,7 +100,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 #### Thursday, March 27
 * Long Le-Khac, Maria Antoniak, and Richard Jean So, "#BLM Insurgent Discourse, White Structures of Feeling and the Fate of the 2020 'Racial Awakening,'" *New Literary History* 53.4 (2022): 667-692
 * Select one of the following Wattpad stories (or groupings of Wattpad stories) to read/skim for today's class; they all focus on #BLM in some way. Click "Start Reading" to read:
-    * pxpi_3andzz, "THUGS MOTIVATION," <https://www.wattpad.com/story/227687631-%F0%9D%91%87%F0%9D%90%BB%F0%9D%91%88%F0%9D%90%BA%F0%9D%91%86-%F0%9D%91%80%F0%9D%91%82%F0%9D%91%87%F0%9D%90%BC%F0%9D%91%89%F0%9D%90%B4%F0%9D%91%87%F0%9D%90%BC%F0%9D%91%82%F0%9D%91%81>
+    * pxpi_3andzz, "THUGS MOTIVATION," <https://www.wattpad.com/user/pxpi_3andzz> (Click on "THUGS MOTIVATION" > Read to access the book and toc)
     * lanadel_hey, "Anarchy (Spec Ops Guy(s) x Reader," <https://www.wattpad.com/story/228252666-anarchy-spec-ops-guy-s-x-reader>
     * Read both of these shorter stories:
         * deathkawaiichick, "She didn't have to die - A black lives matter story," <https://www.wattpad.com/story/228011548-she-didn%27t-have-to-die-a-black-lives-matter-story>
