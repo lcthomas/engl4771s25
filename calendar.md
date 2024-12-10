@@ -1,6 +1,6 @@
 ---
-title: default
-layout: Course Calendar
+layout: default
+title: Course Calendar
 nav_order: 3
 ---
 # Course Calendar
