@@ -6,6 +6,4 @@ has_children: true
 permalink: /assignments
 ---
 # Assignments
-Click the links below to access course assignments.
-
-{:toc}
+Click the links on the left-hand navigation bar to access information about course assignments.
