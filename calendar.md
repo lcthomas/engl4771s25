@@ -44,7 +44,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 * **Reading response 3 due**
 
 ## Week 5
-###s Thursday, February 20
+### Thursday, February 20
 * Patricia Lockwood, *No One is Talking About This* (2021), "Part One"
 *  *The New Yorker,* "Coming Soon: Jennifer Egan's 'Black Box'", <https://www.newyorker.com/books/page-turner/coming-soon-jennifer-egans-black-box>
 * Jennifer Egan, "Black Box," *The New Yorker* (2012)
