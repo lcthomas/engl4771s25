@@ -4,6 +4,7 @@ title: Final Project
 nav_order: 6
 parent: Assignments
 has_children: true
+permalink: /assignments/final-project
 ---
 # Final Project
 More coming soon!
