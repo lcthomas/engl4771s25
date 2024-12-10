@@ -124,7 +124,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 
 ## Week 13
 ### Thursday, April 17
-* Kate Eichhorn, Ch 6 "Content Automation" of *Content* (2022)
+* Kate Eichhorn, Ch 6 "Content Automation" from *Content* (2022)
 * Sheila Heti, "According to Alice," *The New Yorker*, November 13, 2023
 * Cressida Leyshon, "Sheila Heti on the Fluidity of the A.I. 'Self,'" *The New Yorker*, November 13, 2023
 * Ted Chiang, "Why A.I. Isn't Going to Make Art," *The New Yorker*, August 31, 2024
@@ -135,7 +135,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 
 ## Week 14
 ### Thursday, April 24
-* Kate Eichhorn, Ch 5 "Journalism and Politics after Content" of *Content* (2022)
+* Kate Eichhorn, Ch 5 "Journalism and Politics after Content" from *Content* (2022)
 * Helen Young and Geoff M. Boucher, "Authoritarian Politics and Conspiracy Fictions: The Case of QAnon," *Humanities* 11.61 (2022)
 
 ## Week 15
