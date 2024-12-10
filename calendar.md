@@ -30,7 +30,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 * Imogen Binnie, *Nevada* (2013), "Part Two: Late November"
 * Imogen Binnie, *Nevada* (2023), "Afterword"
 * McKenzie Wark, "Toward a Multiple Trans Literature," *The Nation*, July 7, 2022
-* Kate Eichhorn, and Ch 3 "Content Farms"from *Content* (2022)
+* Kate Eichhorn, and Ch 3 "Content Farms" from *Content* (2022)
 * **Reading response 2 due**
 
 ## Week 4
