@@ -9,22 +9,22 @@ It is very important that we all read and work from the same editions of the bel
 
 You may also check the below books out from our library and/or using [Borrow Direct](https://cornell-borrowdirect.reshare.indexdata.com/){:target="_blank"}. Additionally, I also have limited numbers of each text available to lend to students. Please talk to me if you encounter difficulties with or have questions about accessing these texts in print; I will help you find a solution.
 
-* Kate Eichhorn, *Content* (2022), MIT Press
+* **Kate Eichhorn, *Content* (2022), MIT Press**
     * Available at The Cornell Store
     * Available via the publisher’s website: <https://mitpress.mit.edu/9780262543286/content/>
-* Imogen Binnie, *Nevada* (2013), Macmillan
+* **Imogen Binnie, *Nevada* (2013), Macmillan**
     * Available at The Cornell Store
     * Available via the publisher’s website: <https://us.macmillan.com/books/9780374606619/nevada/>
-* Patricia Lockwood, *No One Is Talking About This* (2021), Penguin Random House
+* **Patricia Lockwood, *No One Is Talking About This* (2021), Penguin Random House**
     * Available at The Cornell Store
     * Available via the publisher’s website: <https://www.penguinrandomhouse.com/books/634158/no-one-is-talking-about-this-by-patricia-lockwood/>
-* Toni Morrison, *The Bluest Eye* (1970), Penguin Books 2006 edition
+* **Toni Morrison, *The Bluest Eye* (1970), Penguin Books 2006 edition**
     * Available at The Cornell Store
     * Available via the publisher’s website: <https://www.penguinrandomhouse.com/books/117662/the-bluest-eye-by-toni-morrison/>
-* Colleen Hoover, *It Ends With Us* (2016), Simon & Schuster
+* **Colleen Hoover, *It Ends With Us* (2016), Simon & Schuster**
     * Available at The Cornell Store
     * Available via the publisher’s website: <https://www.simonandschuster.com/books/It-Ends-with-Us/Colleen-Hoover/9781501110368>/
-* All other assigned readings will be available via our course website and/or Canvas site.
+* **All other assigned readings will be available via our course website and/or Canvas site.**
 
 Please bring the assigned reading with you every day to class.
 
