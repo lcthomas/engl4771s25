@@ -5,7 +5,7 @@ nav_order: 4
 ---
 
 # Course Calendar
-Readings not linked to below and not ordered for this class as print books can be found on our [Canvas course site](https://canvas.cornell.edu/courses/73839/files/folder/course%20readings){:target="_blank"}. Go to Files > course readings.
+Readings not linked to below and not ordered for this class as print books can be found on our Canvas course site. Go to Files > course readings.
 
 The most accurate and up-to-date version of this calendar can be found on this site. Use this online calendar to check on reading assignments and other due dates, rather than the pdf or paper version of our syllabus, since those versions of the syllabus will not be updated throughout the semester.
 
