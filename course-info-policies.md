@@ -30,7 +30,7 @@ Please bring the assigned reading with you every day to class.
 
 ## Course Requirements
 ### Attendance, Active Participation, and Weekly Reading Responses (40%)
-You are expected to come to class having completed the reading and assignments listed for each day and prepared to write about it and discuss it. Your successful participation in class depends on your preparation. Be sure to complete the reading and other assignments for each class session. Because this class only meets once a week, more than 1 unexcused absence may affect your course grade. Please arrive to class on time.
+You are expected to come to class having completed the reading and assignments listed for each day and prepared to write about and discuss it. Your successful participation in class depends on your preparation. Be sure to complete the reading and other assignments for each class session. Because this class only meets once a week, more than 1 unexcused absence may affect your course grade. Please arrive to class on time.
 
 In addition to doing the reading for each week's class and participating actively in class discussion, you will also submit brief responses to the week's assigned reading each week of the semester. These responses will be written in response to a prompt I provide at the beginning of class (sometimes you will have a choice between prompts). You will write them by hand during the first ~20 minutes of each class and submit them that day; you will need a notebook for this purpose. These responses will be graded on completion. Throughout the semester, there will be 12 opportunities to turn in a reading response; you must complete 10 of them to receive full credit in this area. Any additional reading responses you complete beyond 10 are extra credit.
 
