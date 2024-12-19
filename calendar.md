@@ -58,6 +58,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 * Patricia Lockwood, *No One is Talking About This* (2021), "Part Two"
 * Brandon Taylor, "i read your little internet novels", March 23, 2021, <https://blgtylr.substack.com/p/i-read-your-little-internet-novels>
 * Adam Fales, "The Unpostable," *Los Angeles Review of Books*, February 16, 2021, <https://lareviewofbooks.org/article/the-unpostable-on-patricia-lockwoods-no-one-is-talking-about-this/>
+* **Reading response 5 due**
 
 ### Friday, February 28
 * **Reception Analysis due**
@@ -67,7 +68,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 ### Thursday, March 6
 * Toni Morrison, *The Bluest Eye* (1970)
 * Hilton Als, "Toni Morrison's Profound and Unrelenting Vision," *The New Yorker*, January 27, 2020
-* **Reading response 5 due**
+* **Reading response 6 due**
 * **Meetings with instructor about final project this week**
 
 ## Week 8
@@ -79,6 +80,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 * Melanie Walsh and Maria Antoniak, "The Goodreads 'Classics': A Computational Study of Readers, Amazon, and Crowdsourced Amateur Criticism," *Journal of Cultural Analytics*, April 20, 2021
 * Wayne Koestenbaum, "Introduction: On the Take," from *Selected Amazon Reviews* (2024)
 * Selections from Kevin Killian, *Selected Amazon Reviews* (2024)
+* **Reading response 7 due**
 
 ### Friday, March 14
 * **1-2 page research project proposal due**
@@ -93,7 +95,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 * Miller, "The Unlikely Author Who's Absolutely Dominating the Bestseller List," *Slate*, August 7, 2022 <https://slate.com/culture/2022/08/colleen-hoover-books-it-ends-with-us-verity.html>
 * Malin Hay, "BookTok," *London Review of Books*, 45.2 (January 19, 2023)
 * Sarah Brouillette, "Romance Work," *Theory & Event* 22.2 (2019): 451-464
-* **Reading response 6 due**
+* **Reading response 8 due**
 
 ## Week 10
 ### Thursday, March 27
@@ -106,6 +108,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
         * jovinta_Stella, "Khalil, I Fight For You," <https://www.wattpad.com/story/227907152-khalil-i-fight-for-you>
 * OR: If you are a regular Wattpad reader, come to class ready to discuss your favorite (specific) Wattpad stories.
 * Sarah Brouillette, "Wattpad's Fictions of Care," July 13, 2022, <https://post45.org/2022/07/wattpads-fictions-of-care/>
+* **Reading response 9 due**
 
 ### Friday, March 28
 * **Research synthesis and bibliography due**
@@ -120,7 +123,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 * Chuck Tingle, *Space Raptor Butt Invasion* (please read both tinglers)
 * Gregory Goalwin, "Sad Puppies and SJWs: Symbolic Revolution and Challenges to Field Orthodoxy in the Struggle for Control of Science Fiction’s Hugo Awards," *Sociological Quarterly* 65.1 (2024): 61-84
 * Mark McGurl, Ch 1 "Fiction as a Service," from *Everything and Less: The Novel in the Age of Amazon* (2021)
-* **Reading response 7 due**
+* **Reading response 10 due**
 
 ## Week 13
 ### Thursday, April 17
@@ -129,6 +132,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 * Cressida Leyshon, "Sheila Heti on the Fluidity of the A.I. 'Self,'" *The New Yorker*, November 13, 2023
 * Ted Chiang, "Why A.I. Isn't Going to Make Art," *The New Yorker*, August 31, 2024
 * Andrew Dean, "New research shows people can't tell the difference between human and AI poetry...", *The Conversation*, November 13, 2024,  <https://theconversation.com/new-research-shows-people-cant-tell-the-difference-between-human-and-ai-poetry-and-even-prefer-the-latter-what-gives-243593>
+* **Reading response 11 due**
 
 ### Friday, April 18
 * **Final project outline due**
@@ -137,6 +141,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 ### Thursday, April 24
 * Kate Eichhorn, Ch 5 "Journalism and Politics after Content" from *Content* (2022)
 * Helen Young and Geoff M. Boucher, "Authoritarian Politics and Conspiracy Fictions: The Case of QAnon," *Humanities* 11.61 (2022)
+* **Reading response 12 due**
 
 ## Week 15
 ### Thursday, May 1

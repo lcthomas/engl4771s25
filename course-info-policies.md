@@ -29,15 +29,15 @@ You may also check the below books out from our library and/or using [Borrow Dir
 Please bring the assigned reading with you every day to class.
 
 ## Course Requirements
-### Attendance, Active Participation, and Weekly Reading Responses (30%)
-You are expected to come to class having completed the reading and assignments listed for each day and prepared to discuss it. Your successful participation in class depends on your preparation. Be sure to complete the reading and other assignments for each class session. Because this class only meets once a week, more than 1 unexcused absence may affect your course grade. Please arrive to class on time.
+### Attendance, Active Participation, and Weekly Reading Responses (40%)
+You are expected to come to class having completed the reading and assignments listed for each day and prepared to write about it and discuss it. Your successful participation in class depends on your preparation. Be sure to complete the reading and other assignments for each class session. Because this class only meets once a week, more than 1 unexcused absence may affect your course grade. Please arrive to class on time.
 
-In addition to doing the reading for each week's class and participating actively in class discussion, you will also submit at least 6 brief responses to the week's assigned reading throughout the semester. These responses will be graded on completion, and they are due the night before class each week (e.g., Wednesday nights). Throughout the semester, there will be 7 opportunities to complete a reading response; you must complete 6 of them to receive full credit in this area.
+In addition to doing the reading for each week's class and participating actively in class discussion, you will also submit brief responses to the week's assigned reading each week of the semester. These responses will be written in response to a prompt I provide at the beginning of class (sometimes you will have a choice between prompts). You will write them by hand during the first ~20 minutes of each class and submit them that day; you will need a notebook for this purpose. These responses will be graded on completion. Throughout the semester, there will be 12 opportunities to turn in a reading response; you must complete 11 of them to receive full credit in this area.
 
-### Reception Analysis (25%)
+### Reception Analysis (20%)
 4-5 page essay analyzing the reception history of one of our course texts.
 
-### Final Project (45%)
+### Final Project (40%)
 15-18 page research project on a topic of your choosing. Completing this project will involve completing a number of small preliminary assignments, including:
 - At least one meeting with me in which we discuss your preliminary ideas;
 - 1-2 page proposal;
@@ -45,7 +45,7 @@ In addition to doing the reading for each week's class and participating activel
 - Detailed final project outline;
 - 7-8 minute final project presentation
 
-All of the above preliminary assignments will be graded on completion.
+All of the above preliminary assignments will be graded on completion, though their overall quality will be considered when I assign your grade for the final project.
 
 ## Policies and Information
 ### Language, Power, and Difficulty
@@ -64,8 +64,6 @@ Please note that I will read and respond to whatever you upload to Canvas for gr
 We will make use of multiple online systems and programs in this course: a course site, a shared Google drive folder, a Canvas site, and Zoom.
 
 * Course site: We will use our course site to manage course information and our schedule. You will find an online version of our course calendar there (including the most up-to-date version of reading assignments and due dates), as well as an online version of our course syllabus. You will also find all course assignment sheets there, as well as links to online materials.
-
-* Shared Google drive folder: You will submit your weekly reading responses to a shared Google drive folder. This folder will be accessible to everyone in the class so that your classmates can read your responses.
 
 * Canvas: Most of our course readings will be available via our Canvas site (excluding online-only material or print books). You will also submit assignments other than the weekly responses via Canvas, and I will use Canvas’s Gradebook to record your grades. You will also be able to access our individual meeting Zoom link (see below) via Canvas.
 
