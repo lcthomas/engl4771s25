@@ -12,9 +12,10 @@ I reserve the right to change the course calendar as needed; adequate advance no
 
 ## Week 1
 ### Thursday, January 23
-* We will read the following things in class (no need to read before class):
+* We will read/skim the following things in class (no need to read before class):
     * Pierre Bourdieu, "The Field of Cultural Production, or: The Economic World Reversed" (1983) from *The Field of Cultural Production: Essays on Art and Literature* (1993), pgs 37-40
     * Elle Griffin, "No one buys books: Everything we learned about the publishing industry from Penguin vs. DOJ," April 22, 2024, <https://www.elysian.press/p/no-one-buys-books>
+    * Erin Kissane, "Against the Dark Forest," November 22, 2024, <https://www.wrecka.ge/against-the-dark-forest/>
 
 ## Unit 1: Literature in the Age of Social Media
 ## Week 2
