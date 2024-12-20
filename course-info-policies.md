@@ -38,7 +38,7 @@ In addition to doing the reading for each week's class and participating activel
 5-page essay analyzing the reception history of one of our course texts.
 
 ### Final Project (40%)
-This course meets weekly for two-and-a-half hours (150 minutes). This would normally be a 3- credit course; for the additional 1 credit (making this course a total of 4 credits), you will complete an additional research component, culminating in a final research paper of 18-20 pages. You will write on a topic of your choosing, but you must write about at least one text from this class. Completing this project will involve completing a number of small preliminary assignments, including:
+This course meets weekly for two-and-a-half hours (150 minutes). This would normally be a 3- credit course; for the additional 1 credit (making this course a total of 4 credits), you will complete an additional research component, culminating in a final research paper of 18-20 pages. You will write on a topic of your choosing, but this topic must be connected in some way to this course. Completing this project will involve completing a number of small preliminary assignments, including:
 - At least one meeting with me in which we discuss your preliminary ideas;
 - 1-2 page proposal;
 - 2-3 page research synthesis with associated bibliography;

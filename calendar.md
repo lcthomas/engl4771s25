@@ -23,7 +23,6 @@ I reserve the right to change the course calendar as needed; adequate advance no
 * Imogen Binnie, *Nevada* (2013), "Part One: Late October"
 * Kate Eichhorn, Ch 1 "A Brief History of Content in a Digital Era" from *Content*  (2022)
 * Kate Eichhorn, Ch 2 "User-Generated Content" from *Content* (2022)
-* Jia Tolentino, "The I in Internet" from *Trick Mirror: Reflections on Self-Delusion* (2019)
 * **Free write 1 due**
 
 ## Week 3
@@ -133,7 +132,6 @@ I reserve the right to change the course calendar as needed; adequate advance no
 * Sheila Heti, "According to Alice," *The New Yorker*, November 13, 2023
 * Cressida Leyshon, "Sheila Heti on the Fluidity of the A.I. 'Self,'" *The New Yorker*, November 13, 2023
 * Ted Chiang, "Why A.I. Isn't Going to Make Art," *The New Yorker*, August 31, 2024
-* Andrew Dean, "New research shows people can't tell the difference between human and AI poetry...", *The Conversation*, November 13, 2024,  <https://theconversation.com/new-research-shows-people-cant-tell-the-difference-between-human-and-ai-poetry-and-even-prefer-the-latter-what-gives-243593>
 * **Free write 11 due**
 
 ### Friday, April 18
