@@ -20,3 +20,5 @@ You are expected to come to class having completed the reading listed for each d
 In addition to doing the reading for each week's class and participating actively in class discussion, you will also submit a brief response to the week's assigned reading in the form of a free write. These free writes will be written in response to a prompt I provide at the beginning of class (sometimes you will have a choice between prompts). You will write them by hand during the first ~15 minutes of each class and submit them that day. They will be open book, meaning you will be able to access the day's reading while you write them. They will be graded on completion. Throughout the semester, there will be 12 opportunities to turn in a free write; you must complete 10 of them to receive full credit in this area. Any additional free writes you complete beyond 10 are extra credit.
 
 You will need to bring a notebook -- or some kind of paper -- with you each week to class to use in completing your free writes.
+
+Except in the case of extenuating circumstances (i.e., an emergency, extended illness, etc), it is not possible to make up missed free writes.
