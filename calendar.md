@@ -23,7 +23,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 * Kate Eichhorn, Ch 1 "A Brief History of Content in a Digital Era" from *Content*  (2022)
 * Kate Eichhorn, Ch 2 "User-Generated Content" from *Content* (2022)
 * Jia Tolentino, "The I in Internet" from *Trick Mirror: Reflections on Self-Delusion* (2019)
-* **Reading response 1 due**
+* **Free write 1 due**
 
 ## Week 3
 ### Thursday, February 6
@@ -31,7 +31,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 * Imogen Binnie, *Nevada* (2023), "Afterword"
 * McKenzie Wark, "Toward a Multiple Trans Literature," *The Nation*, July 7, 2022
 * Kate Eichhorn, and Ch 3 "Content Farms" from *Content* (2022)
-* **Reading response 2 due**
+* **Free write 2 due**
 
 ## Week 4
 ### Thursday, February 13
@@ -41,7 +41,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 * Seth Perlow, "The Handwritten Styles of Instagram Poetry," September 17, 2019, <https://post45.org/2019/09/the-handwritten-styles-of-instagram-poetry/>
 * Amalia Ulman: Excellences and Perfections, New Museum archives, <https://archive.newmuseum.org/exhibitions/2487>; Amalia Ulman's Instagram feed as archived on September 19, 2014, <https://webarchives.rhizome.org/excellences-and-perfections/20141014150552/http://instagram.com/amaliaulman>
 * Amalia Ulman, "Amalia Ulman on her new book and internet performances," *Art Forum*, May 18, 2018 <https://www.artforum.com/columns/amalia-ulman-on-her-new-book-and-internet-performances-239160/>
-* **Reading response 3 due**
+* **Free write 3 due**
 
 ## Week 5
 ### Thursday, February 20
@@ -52,14 +52,14 @@ I reserve the right to change the course calendar as needed; adequate advance no
 * Russell Brandom, "Teju Cole orchestrates his Twitter followers into a collective short story," *The Verge*, January 8, 2014, <https://www.theverge.com/2014/1/8/5288234/teju-cole-orchestrates-his-twitter-followers-into-a-collective-short>
     * Note: What remains of Cole's "Hafiz" is embedded into the article above; not all of the story's original 33 tweets are still available.
 * **Please come to class today prepared to discuss your initial ideas for your Reception Analysis assignment.**
-* **Reading response 4 due**
+* **Free write 4 due**
 
 ## Week 6
 ### Thursday, February 27
 * Patricia Lockwood, *No One is Talking About This* (2021), "Part Two"
 * Brandon Taylor, "i read your little internet novels", March 23, 2021, <https://blgtylr.substack.com/p/i-read-your-little-internet-novels>
 * Adam Fales, "The Unpostable," *Los Angeles Review of Books*, February 16, 2021, <https://lareviewofbooks.org/article/the-unpostable-on-patricia-lockwoods-no-one-is-talking-about-this/>
-* **Reading response 5 due**
+* **Free write 5 due**
 
 ### Friday, February 28
 * **Reception Analysis due**
@@ -69,7 +69,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 ### Thursday, March 6
 * Toni Morrison, *The Bluest Eye* (1970)
 * Hilton Als, "Toni Morrison's Profound and Unrelenting Vision," *The New Yorker*, January 27, 2020
-* **Reading response 6 due**
+* **Free write 6 due**
 * **Meetings with instructor about final project this week**
 
 ## Week 8
@@ -81,7 +81,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 * Melanie Walsh and Maria Antoniak, "The Goodreads 'Classics': A Computational Study of Readers, Amazon, and Crowdsourced Amateur Criticism," *Journal of Cultural Analytics*, April 20, 2021
 * Wayne Koestenbaum, "Introduction: On the Take," from *Selected Amazon Reviews* (2024)
 * Selections from Kevin Killian, *Selected Amazon Reviews* (2024)
-* **Reading response 7 due**
+* **Free write 7 due**
 
 ### Friday, March 14
 * **1-2 page research project proposal due**
@@ -96,7 +96,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 * Miller, "The Unlikely Author Who's Absolutely Dominating the Bestseller List," *Slate*, August 7, 2022 <https://slate.com/culture/2022/08/colleen-hoover-books-it-ends-with-us-verity.html>
 * Malin Hay, "BookTok," *London Review of Books*, 45.2 (January 19, 2023)
 * Sarah Brouillette, "Romance Work," *Theory & Event* 22.2 (2019): 451-464
-* **Reading response 8 due**
+* **Free write 8 due**
 
 ## Week 10
 ### Thursday, March 27
@@ -109,7 +109,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
         * jovinta_Stella, "Khalil, I Fight For You," <https://www.wattpad.com/story/227907152-khalil-i-fight-for-you>
 * OR: If you are a regular Wattpad reader, come to class ready to discuss your favorite (specific) Wattpad stories.
 * Sarah Brouillette, "Wattpad's Fictions of Care," July 13, 2022, <https://post45.org/2022/07/wattpads-fictions-of-care/>
-* **Reading response 9 due**
+* **Free write 9 due**
 
 ### Friday, March 28
 * **Research synthesis and bibliography due**
@@ -124,7 +124,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 * Chuck Tingle, *Space Raptor Butt Invasion* (please read both tinglers)
 * Gregory Goalwin, "Sad Puppies and SJWs: Symbolic Revolution and Challenges to Field Orthodoxy in the Struggle for Control of Science Fiction’s Hugo Awards," *Sociological Quarterly* 65.1 (2024): 61-84
 * Mark McGurl, Ch 1 "Fiction as a Service," from *Everything and Less: The Novel in the Age of Amazon* (2021)
-* **Reading response 10 due**
+* **Free write 10 due**
 
 ## Week 13
 ### Thursday, April 17
@@ -133,7 +133,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 * Cressida Leyshon, "Sheila Heti on the Fluidity of the A.I. 'Self,'" *The New Yorker*, November 13, 2023
 * Ted Chiang, "Why A.I. Isn't Going to Make Art," *The New Yorker*, August 31, 2024
 * Andrew Dean, "New research shows people can't tell the difference between human and AI poetry...", *The Conversation*, November 13, 2024,  <https://theconversation.com/new-research-shows-people-cant-tell-the-difference-between-human-and-ai-poetry-and-even-prefer-the-latter-what-gives-243593>
-* **Reading response 11 due**
+* **Free write 11 due**
 
 ### Friday, April 18
 * **Final project outline due**
@@ -142,7 +142,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 ### Thursday, April 24
 * Kate Eichhorn, Ch 5 "Journalism and Politics after Content" from *Content* (2022)
 * Helen Young and Geoff M. Boucher, "Authoritarian Politics and Conspiracy Fictions: The Case of QAnon," *Humanities* 11.61 (2022)
-* **Reading response 12 due**
+* **Free write 12 due**
 
 ## Week 15
 ### Thursday, May 1
