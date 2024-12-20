@@ -29,16 +29,16 @@ You may also check the below books out from our library and/or using [Borrow Dir
 Please bring the assigned reading with you every day to class.
 
 ## Course Requirements
-### Attendance, Active Participation, and Weekly Reading Responses (40%)
-You are expected to come to class having completed the reading and assignments listed for each day and prepared to write about and discuss it. Your successful participation in class depends on your preparation. Be sure to complete the reading and other assignments for each class session. Because this class only meets once a week, more than 1 unexcused absence may affect your course grade. Please arrive to class on time.
+### Participation and Weekly Free Writes (40%)
+You are expected to come to class having completed the reading listed for each day and prepared to write about and discuss it. Your successful participation in class depends on your preparation. Be sure to complete the reading and other assignments for each class session. Because this class only meets once a week, more than 1 unexcused absence may affect your course grade. Please arrive to class on time.
 
-In addition to doing the reading for each week's class and participating actively in class discussion, you will also submit brief responses to the week's assigned reading each week of the semester. These responses will be written in response to a prompt I provide at the beginning of class (sometimes you will have a choice between prompts). You will write them by hand during the first ~20 minutes of each class and submit them that day; you will need a notebook for this purpose. These responses will be graded on completion. Throughout the semester, there will be 12 opportunities to turn in a reading response; you must complete 10 of them to receive full credit in this area. Any additional reading responses you complete beyond 10 are extra credit.
+In addition to doing the reading for each week's class and participating actively in class discussion, you will also submit a brief response to the week's assigned reading in the form of a free write. These free writes will be written in response to a prompt I provide at the beginning of class (sometimes you will have a choice between prompts). You will write them by hand during the first ~15 minutes of each class and submit them that day. They will be open book, meaning you will be able to access the day's reading while you write them. They will be graded on completion. Throughout the semester, there will be 12 opportunities to turn in a free write; you must complete 10 of them to receive full credit in this area. Any additional free writes you complete beyond 10 are extra credit.
 
 ### Reception Analysis (20%)
-4-5 page essay analyzing the reception history of one of our course texts.
+5-page essay analyzing the reception history of one of our course texts.
 
 ### Final Project (40%)
-15-18 page research project on a topic of your choosing. Completing this project will involve completing a number of small preliminary assignments, including:
+18-20 page research project on a topic of your choosing. Completing this project will involve completing a number of small preliminary assignments, including:
 - At least one meeting with me in which we discuss your preliminary ideas;
 - 1-2 page proposal;
 - 2-3 page research synthesis with associated bibliography;
@@ -83,7 +83,7 @@ Attendance is required. Because our class only meets once per week, more than on
 If at any point in the semester you are ill for an extended period of time, or if there is an emergency, please let me know as soon as possible. We will work out a plan to make up the work you will miss in class.
 
 ### Late Work
-Please communicate with me in advance if you will need more time to complete an assignment. Assignments submitted more than one week late will not be accepted (late reading responses will not be accepted at all unless arranged in advance). It is your responsibility to keep up with assignments and to submit them properly and on time.
+Please communicate with me in advance if you will need more time to complete an assignment. Assignments submitted more than one week late will not be accepted (late free writes will not be accepted at all unless arranged in advance). It is your responsibility to keep up with assignments and to submit them properly and on time.
 
 On a personal level, like everyone else, I dislike being lied to. I don’t think there’s anything wrong with asking for more time to complete an assignment. You do not need to concoct elaborate stories if requesting an extension on an assignment, or even offer any explanation for this request at all. You can just ask for more time, and we will work it out.
 
