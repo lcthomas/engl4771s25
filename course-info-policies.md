@@ -30,7 +30,7 @@ Please bring the assigned reading with you every day to class.
 
 ## Course Requirements
 ### Participation and Weekly Free Writes (40%)
-You are expected to come to class having completed the reading listed for each day and prepared to write about and discuss it. Your successful participation in class depends on your preparation. Be sure to complete the reading and other assignments for each class session. Because this class only meets once a week, more than 1 unexcused absence may affect your course grade. Please arrive to class on time.
+You are expected to come to class having completed the reading listed for each day and prepared to write about and discuss it. Your successful participation in class depends on your preparation. Be sure to complete the reading and other assignments for each class session.
 
 In addition to doing the reading for each week's class and participating actively in class discussion, you will also submit a brief response to the week's assigned reading in the form of a free write. These free writes will be written in response to a prompt I provide at the beginning of class (sometimes you will have a choice between prompts). You will write them by hand during the first ~15 minutes of each class and submit them that day. They will be open book, meaning you will be able to access the day's reading while you write them. They will be graded on completion. Throughout the semester, there will be 12 opportunities to turn in a free write; you must complete 10 of them to receive full credit in this area. Any additional free writes you complete beyond 10 are extra credit.
 
@@ -78,7 +78,7 @@ You should check your Cornell email account regularly; I will send course inform
 I am happy to answer simple questions about the course via email, but I will recommend that you talk to me in office hours or in a meeting about more involved questions and conversations about course material, assignments, and policies. In fact, the best thing to do in almost any situation that affects your class work is simply to talk to me about it. I am also happy to read and discuss advance drafts of your assignments with you in a one-on-one meeting, but I will not read and comment on drafts of assignments via email before they are due.
 
 ### Attendance
-Attendance is required. Because our class only meets once per week, more than one absence may affect your overall grade. Please communicate with me about course absences, especially if you need to miss more than one class. Please save your absence for when you need it.
+Attendance is required. Because our class only meets once per week, more than one unexcused absence may affect your overall grade. Please communicate with me about course absences, especially if you need to miss more than one class. Please save your absence for when you need it, and please arrive to class on time.
 
 If at any point in the semester you are ill for an extended period of time, or if there is an emergency, please let me know as soon as possible. We will work out a plan to make up the work you will miss in class.
 
