@@ -84,7 +84,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 * **Free write 7 due**
 
 ### Friday, March 14
-* **1-2 page research project proposal due**
+* **1-2 page final project proposal due**
 
 ## Week 9
 ### Thursday, March 20
