@@ -29,7 +29,7 @@ You may also check the below books out from our library and/or using [Borrow Dir
 Please bring the assigned reading with you every day to class.
 
 ## Course Requirements
-### Participation and Weekly Free Writes (40%)
+### Participation and Weekly Free Writes (30%)
 You are expected to come to class having completed the reading listed for each day and prepared to write about and discuss it. Your successful participation in class depends on your preparation. Be sure to complete the reading and other assignments for each class session.
 
 In addition to doing the reading for each week's class and participating actively in class discussion, you will also submit a brief response to the week's assigned reading in the form of a free write. These free writes will be written in response to a prompt I provide at the beginning of class (sometimes you will have a choice between prompts). You will write them by hand during the first ~15 minutes of each class and submit them that day. They will be open book, meaning you will be able to access the day's reading while you write them. They will be graded on completion. Throughout the semester, there will be 12 opportunities to turn in a free write; you must complete 10 of them to receive full credit in this area. Any additional free writes you complete beyond 10 are extra credit.
@@ -37,7 +37,7 @@ In addition to doing the reading for each week's class and participating activel
 ### Reception Analysis (20%)
 5-page essay analyzing the reception history of one of our course texts.
 
-### Final Project (40%)
+### Final Project (50%)
 This course meets weekly for two-and-a-half hours (150 minutes). This would normally constitute a 3-credit course; for the additional 1 credit (making this course a total of 4 credits), you will complete an additional research component, culminating in a final research paper of 18-20 pages. You will write on a topic of your choosing, but this topic must be connected in some way to this course. Completing this project will involve completing a number of small preliminary assignments, including:
 - At least one meeting with me in which we discuss your preliminary ideas;
 - 1-2 page proposal;

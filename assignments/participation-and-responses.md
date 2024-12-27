@@ -4,10 +4,10 @@ title: Participation and Weekly Free Writes
 nav_order: 1
 parent: Assignments
 ---
-# Participation and Weekly Free Writes (40% of final grade)
+# Participation and Weekly Free Writes (30% of final grade)
 A large portion of your grade in this class is based on you doing the reading, showing up for class each week, completing your free writes, and participating in discussion. As a seminar, the success of this class depends on your participation. This class will be what we make of it, together.
 
-## Participation (20%)
+## Participation (10%)
 You are expected to come to class having completed the reading listed for each day and prepared to write about and discuss it. Ours is a small class, so you should expect to speak at least once during each class session (though hopefully, everyone will speak more than that). If speaking in class is difficult for you, please talk with me about it. We can discuss strategies to help you meet this goal. These may include:
 
 1. Raising ideas from our assigned materials for class discussion and/or from your weekly written responses to them, including directing our attention to specific moments you found evocative, inspiring, unexpected, or otherwise salient;
