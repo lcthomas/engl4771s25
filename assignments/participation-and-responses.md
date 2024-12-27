@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Participation and Weekly Reading Responses
+title: Participation and Weekly Free Writes
 nav_order: 1
 parent: Assignments
 ---
