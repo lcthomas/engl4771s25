@@ -5,5 +5,5 @@ nav_order: 6
 parent: Final Project
 grand_parent: Assignments
 ---
-# Final Project Research Paper 
+# Final Research Paper 
 More coming soon!
