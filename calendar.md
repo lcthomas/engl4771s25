@@ -70,7 +70,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 * Toni Morrison, *The Bluest Eye* (1970)
 * Hilton Als, "Toni Morrison's Profound and Unrelenting Vision," *The New Yorker*, January 27, 2020
 * **Free write 6 due**
-* **Meetings with instructor about final project this week**
+* **Meetings with instructor about final project this week or next**
 
 ## Week 8
 ### Thursday, March 13
@@ -82,6 +82,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 * Wayne Koestenbaum, "Introduction: On the Take," from *Selected Amazon Reviews* (2024)
 * Selections from Kevin Killian, *Selected Amazon Reviews* (2024)
 * **Free write 7 due**
+* **Meetings with instructor about final project this week or previous week**
 
 ### Friday, March 14
 * **1-2 page final project proposal due**
