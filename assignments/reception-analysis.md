@@ -4,7 +4,7 @@ title: Reception Analysis
 nav_order: 2
 parent: Assignments
 ---
-# Reception Analysis
+# Reception Analysis (20% of final grade)
 ## Due
 - Friday, Feb 28 by the end of the day
 
