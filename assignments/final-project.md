@@ -7,6 +7,4 @@ has_children: true
 permalink: /assignments/final-project
 ---
 # Final Project
-More coming soon!
-
 Click the links below to learn more about the required components of the final project.
