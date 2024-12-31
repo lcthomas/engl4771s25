@@ -6,6 +6,7 @@ parent: Assignments
 ---
 # Reception Analysis (20% of final grade)
 ## Due
+- Come to class on Thursday, Feb 20 ready to discuss which text you have selected for this assignment and why.
 - Friday, Feb 28 by the end of the day
 
 ## Requirements

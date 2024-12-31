@@ -51,7 +51,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 * Brendan Byrne, "Retweeting Fiction," *Rhizome*, April 23, 2014, <https://rhizome.org/editorial/2014/apr/23/tweeting-fiction/>
 * Russell Brandom, "Teju Cole orchestrates his Twitter followers into a collective short story," *The Verge*, January 8, 2014, <https://www.theverge.com/2014/1/8/5288234/teju-cole-orchestrates-his-twitter-followers-into-a-collective-short>
     * Note: What remains of Cole's "Hafiz" is embedded into the article above; not all of the story's original 33 tweets are still available.
-* **Please come to class today prepared to discuss your initial ideas for your Reception Analysis assignment.**
+* **Please come to class today prepared to discuss which text you have selected for your Reception Analysis assignment and why.**
 * **Free write 4 due**
 
 ## Week 6
