@@ -104,7 +104,7 @@ I don't want to spend my time with you looking on your work with suspicion, so a
 - How to cite ChatGPT: <https://www.scribbr.com/ai-tools/chatgpt-citations/>
 - How to turn off Copilot in Microsoft Word: <https://www.reddit.com/r/word/comments/1ge3bw9/does_anyone_know_how_to_turn_off_the_copilot_icon/?rdt=59648>, <https://techissuestoday.com/how-to-disable-or-remove-copilot-from-microsoft-word/>
 - How to turn off Google's Smart Compose suggestions: <https://www.theverge.com/24108630/google-docs-gmail-smart-compose-how-to>
-- How to turn off Grammarly's generative AI features: <https://libanswers.leedsbeckett.ac.uk/skills-for-learning/faq/276920>, <https://support.grammarly.com/hc/en-us/articles/14528857014285-Introducing-generative-AI-assistance> (scroll to the very botto of the page, under "Managing your account settings")
+- How to turn off Grammarly's generative AI features: <https://libanswers.leedsbeckett.ac.uk/skills-for-learning/faq/276920>, <https://support.grammarly.com/hc/en-us/articles/14528857014285-Introducing-generative-AI-assistance> (scroll to the very bottom of the page, under "Managing your account settings")
 
 ### Accommodations and Accessibility
 It is important to me that you can access this course and its materials and complete its assignments. If you anticipate or experience barriers to actively participating in or completing your work in this class, please let me know so that we can discuss options. Some resources that might be useful include:
