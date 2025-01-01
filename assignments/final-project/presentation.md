@@ -12,7 +12,7 @@ grand_parent: Assignments
 ## Requirements
 Please see [the Final Research Paper assignment page](https://lindsaythomas.net/engl4771s25/assignments/final-project/paper.html){:target="_blank} for a description of the final research paper requirements.
 
-Your final project presentation should be 7-8 minutes long. I encourage you to view your presentation as a report on your paper in process; you don't need to have your whole argument figured out in advance of presenting it to the class! It is fine for some things to be preliminary.
+Your final project presentation should be 7-8 minutes long. I encourage you to view your presentation as a report on your paper in progress; you don't need to have your whole argument figured out in advance of presenting it to the class! It is fine for some things to be preliminary.
 
 However, please practice your presentation ahead of presenting it to the class and time yourself so that you have a good sense of how long your presentation will be. I will warn you at 8 minutes, then again at 8 minutes and 30 seconds, and then ask you to end your presentation at 9 minutes. Just as you should strive not to go much over the time limit for your presentation, you should also strive not to fall under it. If, in practicing your presentation, you discover that it comes in under about 7 minutes, this is an indication that you need to include more material.
 
