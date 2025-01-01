@@ -5,5 +5,5 @@ nav_order: 4
 parent: Final Project
 grand_parent: Assignments
 ---
-# Final Project Outline
+# Final Project Outline (5% of final grade)
 More coming soon!

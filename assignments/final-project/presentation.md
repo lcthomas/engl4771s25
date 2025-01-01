@@ -5,5 +5,5 @@ nav_order: 5
 parent: Final Project
 grand_parent: Assignments
 ---
-# Final Project Presentation
+# Final Project Presentation (5% of final grade)
 More coming soon!
