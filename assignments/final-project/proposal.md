@@ -5,7 +5,7 @@ nav_order: 2
 parent: Final Project
 grand_parent: Assignments
 ---
-# Final Project Proposal
+# Final Project Proposal (5% of final grade)
 ## Due
 - Friday, March 14 by the end of the day
 
