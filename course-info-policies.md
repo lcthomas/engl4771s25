@@ -78,12 +78,12 @@ You should check your Cornell email account regularly; I will send course inform
 I am happy to answer simple questions about the course via email, but I will recommend that you talk to me in office hours or in a meeting about more involved questions and conversations about course material, assignments, and policies. In fact, the best thing to do in almost any situation that affects your class work is simply to talk to me about it. I am also happy to read and discuss advance drafts of your assignments with you in a one-on-one meeting, but I will not read and comment on drafts of assignments via email before they are due.
 
 ### Attendance
-Attendance is required. Because our class only meets once per week, more than one unexcused absence may affect your overall grade. Please communicate with me about course absences, especially if you need to miss more than one class. Please save your absence for when you need it, and please arrive to class on time.
+Attendance is required. Because our class only meets once per week, more than one unexcused absence may affect your overall grade. Please communicate with me about your absences from class, especially if you need to miss more than one class. Please save your absence for when you need it, and please arrive to class on time.
 
 If at any point in the semester you are ill for an extended period of time, or if there is an emergency, please let me know as soon as possible. We will work out a plan to make up the work you will miss in class.
 
 ### Late Work
-Please communicate with me in advance if you will need more time to complete an assignment. Unless arranged ahead of time, assignments submitted more than one week late will not be accepted (late free writes will not be accepted at all unless arranged in advance). It is your responsibility to keep up with assignments and to submit them properly and on time.
+Please communicate with me in advance if you will need more time to complete an assignment. Unless arranged ahead of time, assignments submitted more than one week late will not be accepted (late free writes will not be accepted at all unless arranged in advance due to special circumstances). It is your responsibility to keep up with assignments and to submit them properly and on time.
 
 On a personal level, like everyone else, I dislike being lied to. I don’t think there’s anything wrong with asking for more time to complete an assignment. You do not need to concoct elaborate stories if requesting an extension on an assignment, or even offer any explanation for this request at all. You can just ask for more time, and we will work it out.
 
