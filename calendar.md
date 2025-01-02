@@ -51,14 +51,14 @@ I reserve the right to change the course calendar as needed; adequate advance no
 * Brendan Byrne, "Retweeting Fiction," *Rhizome*, April 23, 2014, <https://rhizome.org/editorial/2014/apr/23/tweeting-fiction/>
 * Russell Brandom, "Teju Cole orchestrates his Twitter followers into a collective short story," *The Verge*, January 8, 2014, <https://www.theverge.com/2014/1/8/5288234/teju-cole-orchestrates-his-twitter-followers-into-a-collective-short>
     * Note: What remains of Cole's "Hafiz" is embedded into the article above; not all of the story's original 33 tweets are still available.
-* **Please come to class today prepared to discuss which text you have selected for your Reception Analysis assignment and why.**
+* **Please come to class today prepared to discuss the text you have selected for your Reception Analysis assignment and why.**
 * **Free write 4 due**
 
 ## Week 6
 ### Thursday, February 27
 * Patricia Lockwood, *No One is Talking About This* (2021), "Part Two"
+* Walker Caplan, "All the memes in Patricia Lockwood's *No One Is Talking About This*, explained," *LitHub*, February 22, 2021, <https://lithub.com/all-the-memes-in-patricia-lockwoods-no-one-is-talking-about-this-explained/>
 * Brandon Taylor, "i read your little internet novels", March 23, 2021, <https://blgtylr.substack.com/p/i-read-your-little-internet-novels>
-* Adam Fales, "The Unpostable," *Los Angeles Review of Books*, February 16, 2021, <https://lareviewofbooks.org/article/the-unpostable-on-patricia-lockwoods-no-one-is-talking-about-this/>
 * **Free write 5 due**
 
 ### Friday, February 28
