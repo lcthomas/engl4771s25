@@ -33,7 +33,7 @@ For this portion of the assignment, you will select at least 3 secondary scholar
 ## Bibliography
 Your bibliography should include citations for each of the sources you discuss in your research synthesis. You should also include citations of at least 2 additional scholarly sources that are related to your topic and/or to the primary text(s) you are writing about and that you think you might cite in your final research paper.
 
-These citations should be formatted according to MLA or Chicago style guidelines. At least three of these sources  should have been  published in the past ~15 years or so. If any of your sources include single-author academic books, please indicate for each book which specific chapter(s) you are citing or think you will cite in your paper. Please make sure to include links to each scholarly source (either to the record in the library catalog or to the journal article or book itself).
+These citations should be formatted according to MLA or Chicago style guidelines. At least three of these sources  should have been published in the past ~15 years or so. If any of your sources include single-author academic books, please indicate for each book which specific chapter(s) you are citing or think you will cite in your paper. Please make sure to include links to each scholarly source (either to the record in the library catalog or to the journal article or book itself).
 
 ## Conducting Research
 You will need to be able to find and access scholarly sources about your topic and text(s) to complete this assignment. See the "Conducting Research" section of the [Final Research Paper assignment page](https://lindsaythomas.net/engl4771s25/assignments/final-project/paper.html#conducting-research){:target="_blank"} for resources.
