@@ -83,7 +83,7 @@ Attendance is required. Because our class only meets once per week, more than on
 If at any point in the semester you are ill for an extended period of time, or if there is an emergency, please let me know as soon as possible. We will work out a plan to make up the work you will miss in class.
 
 ### Late Work
-Please communicate with me in advance if you will need more time to complete an assignment. Assignments submitted more than one week late will not be accepted (late free writes will not be accepted at all unless arranged in advance). It is your responsibility to keep up with assignments and to submit them properly and on time.
+Please communicate with me in advance if you will need more time to complete an assignment. Unless arranged ahead of time, assignments submitted more than one week late will not be accepted (late free writes will not be accepted at all unless arranged in advance). It is your responsibility to keep up with assignments and to submit them properly and on time.
 
 On a personal level, like everyone else, I dislike being lied to. I don’t think there’s anything wrong with asking for more time to complete an assignment. You do not need to concoct elaborate stories if requesting an extension on an assignment, or even offer any explanation for this request at all. You can just ask for more time, and we will work it out.
 
