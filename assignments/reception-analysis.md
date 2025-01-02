@@ -44,6 +44,7 @@ In general, a good candidate literary text for this assignment has the following
 You will need to be able to find and access both professional and "amateur" reviews and discussion of your selected literary text to complete this assignment. Simply typing the title of your text with the word review after it into Google (e.g., "no one is talking about this" review) can sometimes turn up a lot. But you may also need to dig deeper, especially if your text is less well-known, newer, or if you want to access scholarly articles or reviews.
 
 Resources:
+- The [Additional Readings page](https://lindsaythomas.net/engl4771s25/additional-readings.html){:target="_blank"} on this course site includes selected reviews of our course texts.
 - Library of Congress Sources for General Book Reviews: <https://guides.loc.gov/finding-book-reviews/online-sources-and-databases#s-lib-ctab-22895147-0>
    - The "Free Web Resources" tab is especially useful. The "Historical Book Review Databases" tab is also useful if your literary text was published prior to the late-20th century.
    - You can access some of the databases listed on the various tabs on this page via the Cornell Library website, but not all. To see if Cornell has access to a particular database, go to the [Cornell Library Page](https://www.library.cornell.edu/){:target="_blank"}, select "Databases," and select the letter corresponding to the first letter of the database's title to browse by title.
