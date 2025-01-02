@@ -41,7 +41,7 @@ In addition to doing the reading for each week's class and participating activel
 This course meets weekly for two-and-a-half hours (150 minutes). This would normally constitute a 3-credit course; for the additional 1 credit (making this course a total of 4 credits), you will complete an additional research component, culminating in a final research paper of 18-20 pages. You will write on a topic of your choosing, but this topic must be connected in some way to this course. Completing this project will involve completing a number of small preliminary assignments, including:
 - At least one meeting with me in which we discuss your preliminary ideas;
 - 1-2 page proposal;
-- 2-3 page research synthesis with associated bibliography;
+- 3 page research synthesis with associated bibliography;
 - Detailed final project outline;
 - 7-8 minute final project presentation
 
