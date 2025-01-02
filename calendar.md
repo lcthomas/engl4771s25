@@ -79,8 +79,6 @@ I reserve the right to change the course calendar as needed; adequate advance no
     * Read/skim a selection of 5-star reviews
     * Read/skim a selection of 1-star reviews
 * Melanie Walsh and Maria Antoniak, "The Goodreads 'Classics': A Computational Study of Readers, Amazon, and Crowdsourced Amateur Criticism," *Journal of Cultural Analytics*, April 20, 2021
-* Wayne Koestenbaum, "Introduction: On the Take," from *Selected Amazon Reviews* (2024)
-* Selections from Kevin Killian, *Selected Amazon Reviews* (2024)
 * **Free write 7 due**
 * **Meetings with instructor about final project this week or previous week**
 
