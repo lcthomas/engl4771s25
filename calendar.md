@@ -89,8 +89,8 @@ I reserve the right to change the course calendar as needed; adequate advance no
 ### Thursday, March 20
 * Colleen Hoover, *It Ends With Us*  (2016)
 * BookTok videos: Watch at least 1 of the following BookTok compilation videos about Hoover:
-     * <https://www.youtube.com/watch?v=Qh_I0y5fZAs>
-		 * <https://www.youtube.com/watch?v=RdbUaR3XIOA>
+    * <https://www.youtube.com/watch?v=Qh_I0y5fZAs>
+  	* <https://www.youtube.com/watch?v=RdbUaR3XIOA>
 		 * <https://www.youtube.com/watch?v=akLjgpkOJWk>
 * Miller, "The Unlikely Author Who's Absolutely Dominating the Bestseller List," *Slate*, August 7, 2022 <https://slate.com/culture/2022/08/colleen-hoover-books-it-ends-with-us-verity.html>
 * Malin Hay, "BookTok," *London Review of Books*, 45.2 (January 19, 2023)
@@ -118,7 +118,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 
 ## Week 12
 ### Thursday, April 10
-* Aja Romano, "The secret behind internet erotica icon Chuck Tingle: his own life may be the best story he’s ever written," *Vox*, October 18, 2026, <https://www.vox.com/culture/2016/10/18/12775742/who-is-chuck-tingle-fake-explained>
+* Aja Romano, "The secret behind internet erotica icon Chuck Tingle: his own life may be the best story he’s ever written," *Vox*, October 18, 2016, <https://www.vox.com/culture/2016/10/18/12775742/who-is-chuck-tingle-fake-explained>
 * Will Rowan, "Interview: Proving Love is Real with Dr. Chuck Tingle," *York Vision*, March 30, 2021, <https://www.yorkvision.co.uk/features/interview-proving-love-is-real-with-chuck-tingle/30/03/2021>
 * Chuck Tingle, *Space Raptor Butt Invasion* (please read both tinglers)
 * Gregory Goalwin, "Sad Puppies and SJWs: Symbolic Revolution and Challenges to Field Orthodoxy in the Struggle for Control of Science Fiction’s Hugo Awards," *Sociological Quarterly* 65.1 (2024): 61-84
@@ -133,14 +133,14 @@ I reserve the right to change the course calendar as needed; adequate advance no
 * Ted Chiang, "Why A.I. Isn't Going to Make Art," *The New Yorker*, August 31, 2024
 * **Free write 11 due**
 
-### Friday, April 18
-* **Final project outline due**
-
 ## Week 14
 ### Thursday, April 24
 * Kate Eichhorn, Ch 5 "Journalism and Politics after Content" from *Content* (2022)
 * Helen Young and Geoff M. Boucher, "Authoritarian Politics and Conspiracy Fictions: The Case of QAnon," *Humanities* 11.61 (2022)
 * **Free write 12 due**
+
+### Friday, April 25
+* **Final project outline due**
 
 ## Week 15
 ### Thursday, May 1
