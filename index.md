@@ -15,7 +15,7 @@ R 11:15-1:45 pm <br/>
 Uris Library 311
 
 ## Office Hours
-T 12-2 pm, and by appointment <br/>
+T 1-3 pm, and by appointment <br/>
 282 Goldwin Smith
 
 ## Course Description
