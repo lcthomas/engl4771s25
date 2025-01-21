@@ -5,7 +5,7 @@ nav_order: 2
 ---
 # Course Info & Policies
 ## Required Materials
-It is very important that we all read and work from the same editions of the below novels. We will often read passages together in class, and it is \*essential\* to the culture of our class that we all reference the same editions with the same paginations. I therefore ask that you please obtain the PRINT editions of the below novels. I have ordered all of the below books through the Cornell bookstore and they should be available to you via CAMP. Digital editions of the below books should be used as a temporary stop gap or as a last resort only.
+It is very important that we all read and work from the same editions of the below novels. We will often read passages together in class, and it is \*essential\* to the culture of our class that we all reference the same editions with the same paginations. I therefore ask that you please obtain the PRINT editions of the below books. I have ordered all of the below books through the Cornell bookstore and they should be available to you via CAMP. Digital editions of the below books should be used as a temporary stop gap or as a last resort only.
 
 You may also check the below books out from our library and/or using [Borrow Direct](https://cornell-borrowdirect.reshare.indexdata.com/){:target="_blank"}. Additionally, I also have limited numbers of each text available to lend to students. Please talk to me if you encounter difficulties with or have questions about accessing these texts in print; I will help you find a solution.
 
