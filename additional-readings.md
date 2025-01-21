@@ -28,6 +28,7 @@ This page is currently in process. It is meant to act as a starting point for yo
 * Kira Guehring, "From BookTok to Bookshelf: Algorithms and Book Recommendations on TikTok," Master's Thesis in Digital Culture, University of Bergen, Spring 2023
 * Lindsay Thomas, "BookTok and the Rituals of Recommendation," *Post45 Contemporaries*, Dec 8 2023, <https://post45.org/2023/12/booktok-and-the-rituals-of-recommendation/>
 * Tess McNulty, "What's On Top of TikTok?," *Public Books*, November 8, 2023, <https://www.publicbooks.org/whats-on-top-of-tiktok/>
+* Malin Hay, "BookTok," *London Review of Books*, 45.2 (January 19, 2023)
 
 ## Social Media and Contemporary Culture
 * Tess McNulty, "Content's Forms", *New Literary History*, 53.4 (Autumn 2022): 795-851
