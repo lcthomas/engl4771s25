@@ -61,7 +61,7 @@ Technological failures and mishaps – file corruption, computer crashes, wifi c
 Please note that I will read and respond to whatever you upload to Canvas for grading. It is your responsibility to turn in the correct version of your assignments.
 
 ### Course Digital Infrastructure
-We will make use of multiple online systems and programs in this course: a course site, a shared Google drive folder, a Canvas site, and Zoom.
+We will make use of multiple online systems and programs in this course: a course site, a Canvas site, and Zoom.
 
 * Course site: We will use our course site to manage course information and our schedule. You will find an online version of our course calendar there (including the most up-to-date version of reading assignments and due dates), as well as an online version of our course syllabus. You will also find all course assignment sheets there, as well as links to online materials.
 
