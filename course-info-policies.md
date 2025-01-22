@@ -35,7 +35,7 @@ You are expected to come to class having completed the reading listed for each d
 In addition to doing the reading for each week's class and participating actively in class discussion, you will also submit a brief response to the week's assigned reading in the form of a free write. These free writes will be written in response to a prompt I provide at the beginning of each class (sometimes you will have a choice between prompts). You will write them by hand during the first ~15 minutes of each class and submit them that day. You will be able to access the day's reading while you write them, and they will be graded on completion. Throughout the semester, there will be 12 opportunities to turn in a free write; you must complete 10 of them to receive full credit in this area. Any additional free writes you complete beyond 10 are extra credit.
 
 ### Reception Analysis (20%)
-5-page essay analyzing the reception history of one of our course texts.
+5-page essay analyzing the reception history of a literary text of your choosing.
 
 ### Final Project (50%)
 This course meets weekly for two-and-a-half hours (150 minutes). This would normally constitute a 3-credit course; for the additional 1 credit (making this course a total of 4 credits), you will complete an additional research component, culminating in a final research paper of 18-20 pages. You will write on a topic of your choosing, but this topic must be connected in some way to this course. Completing this project will involve completing a number of small preliminary assignments, including:
