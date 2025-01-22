@@ -37,6 +37,7 @@ This page is currently in process. It is meant to act as a starting point for yo
 * Jennifer Burek Pierce, "When Voices Become Data: Reading Data Documenting Contemporary Reading," *Transactions of the American Philosophical Society* 112.3 (2023): 201-2015
 * *Public Books* Hacking the Culture Industries series: <https://www.publicbooks.org/tag/hacking-the-culture-industries/>
     * This series includes pieces on live-tweeting episodes of *Euphoria*, on what the data tells us about winners of the National Book Award, on queer characters in video games, on how *The New York Times* covers Black writers, on Spotify, on audio books, and much more!
+* Federico Pianzola, [*Digital Social Reading: Sharing Fiction in the Twenty-First Century* (2025)](https://doi.org/10.7551/mitpress/14588.001.0001){:target="_blank} (available in open access edition)
 
 ## AI and Literature
 * Andrew Dean, "New research shows people can't tell the difference between human and AI poetry...", *The Conversation*, November 13, 2024,  <https://theconversation.com/new-research-shows-people-cant-tell-the-difference-between-human-and-ai-poetry-and-even-prefer-the-latter-what-gives-243593>
