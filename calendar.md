@@ -67,18 +67,20 @@ I reserve the right to change the course calendar as needed; adequate advance no
 ## Unit 2: Social Media in the Age of Literature
 ## Week 7
 ### Thursday, March 6
-* Toni Morrison, *The Bluest Eye* (1970)
+* Toni Morrison, *The Bluest Eye* (1970), through page 163 (end with "...the face of her mother looming over her.")
 * Hilton Als, "Toni Morrison's Profound and Unrelenting Vision," *The New Yorker*, January 27, 2020
 * **Free write 6 due**
 * **Meetings with instructor about final project this week or next**
 
 ## Week 8
 ### Thursday, March 13
-* Toni Morrison, *The Bluest Eye* (1970)
+* Toni Morrison, *The Bluest Eye* (1970), finish the novel
 * Goodreads reviews of *The Bluest Eye*: <https://www.goodreads.com/book/show/11337/reviews>
     * Read/skim a selection of 5-star reviews
     * Read/skim a selection of 1-star reviews
 * Melanie Walsh and Maria Antoniak, "The Goodreads 'Classics': A Computational Study of Readers, Amazon, and Crowdsourced Amateur Criticism," *Journal of Cultural Analytics*, April 20, 2021
+* Marshall Libraries, "Banned Books 2024 - The Bluest Eye," <https://www.marshall.edu/library/bannedbooks/the-bluest-eye/>
+* Marcelo S O Goncalves, Isabelle Langrock, Jack LaViolette, and Katie Spoon, "Book bans in political context: Evidence from US schools", *PNAS Nexus* 3.6 (June 2024), <https://academic.oup.com/pnasnexus/article/3/6/pgae197/7689238> (pdf also available in course readings folder on Canvas)
 * **Free write 7 due**
 * **Meetings with instructor about final project this week or previous week**
 
@@ -91,7 +93,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 * BookTok videos: Watch at least 1 of the following BookTok compilation videos about Hoover:
     * <https://www.youtube.com/watch?v=Qh_I0y5fZAs>
   	* <https://www.youtube.com/watch?v=RdbUaR3XIOA>
-		 * <https://www.youtube.com/watch?v=akLjgpkOJWk>
+	* <https://www.youtube.com/watch?v=akLjgpkOJWk>
 * Miller, "The Unlikely Author Who's Absolutely Dominating the Bestseller List," *Slate*, August 7, 2022 <https://slate.com/culture/2022/08/colleen-hoover-books-it-ends-with-us-verity.html>
 * Sarah Brouillette, "Romance Work," *Theory & Event* 22.2 (2019): 451-464
 * **Free write 8 due**
