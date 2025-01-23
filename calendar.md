@@ -21,8 +21,8 @@ I reserve the right to change the course calendar as needed; adequate advance no
 ## Week 2
 ### Thursday, January 30
 * Imogen Binnie, *Nevada* (2013), "Part One: Late October"
-* Kate Eichhorn, Ch 1 "A Brief History of Content in a Digital Era" from *Content*  (2022)
-* Kate Eichhorn, Ch 2 "User-Generated Content" from *Content* (2022)
+* Kate Eichhorn, Ch 1 "A Brief History of Content in a Digital Era" from *Content*  (2022) (available in course readings folder on Canvas)
+* Kate Eichhorn, Ch 2 "User-Generated Content" from *Content* (2022) (available in course readings folder on Canvas)
 * **Free write 1 due**
 
 ## Week 3

@@ -6,15 +6,18 @@ nav_order: 5
 # Additional Reading
 This page is currently in process. It is meant to act as a starting point for your research for your reception analysis assignment and for your final project. The readings listed below are related to our course. In many cases, I considered including them in our syllabus, but there wasn't enough room. They are organized below by topic or concept, and many of the readings not linked below, unless they are books, can be found in the "additional readings" folder on our course Canvas site (go to Files > additional readings).
 
-## Selected Reviews of and Scholarship on Course Texts
+## Selected Reviews of and Scholarship on Some Course Texts
 * *Nevada*
+    * Stephanie Burt, "The Invention of the Trans Novel," *The New Yorker*, June 20, 2022 <https://www.newyorker.com/magazine/2022/06/27/the-invention-of-the-trans-novel-imogen-binnie-nevada>
+    * Jonathan H. Grossman, "Imogen Binnie's Unreliable Narrators," *TSQ* 11.3 (August 2024)
 * Instagram poetry
+    * Aarthi Vadde, "Platform or Publisher," *PMLA* 136.3 (2021)
+    * Tanja Grubnic, "Nosthetics: Instagram poetry and the convergence of digital media and literature," *The Australian Journal of Popular Culture* 9.2 (2020)
 * *No One Is Talking About This*
     * Adam Fales, "The Unpostable," *Los Angeles Review of Books*, February 16, 2021, <https://lareviewofbooks.org/article/the-unpostable-on-patricia-lockwoods-no-one-is-talking-about-this/>
     * Anna Schectman, "The Voice of the Internet," *Representations* 168 (2024): 125-45
 * *The Bluest Eye*
-* *It Ends With Us*
-* Chuck Tingle
+    * There is so much scholarship on this novel. This website is an interesting way to get an overview of scholarship on Morrison's novels: <https://blacklitnetwork.org/data-gallery/scholarship_on_toni_morrison/index.html>
 
 ## Personal Essays about the Internet
 * Jia Tolentino, "The I in Internet" from *Trick Mirror: Reflections on Self-Delusion* (2019)
@@ -52,6 +55,5 @@ This page is currently in process. It is meant to act as a starting point for yo
 ## Fans and Fandom Online
 * Aarthi Vadde and Richard Jean So, "Fandom and Fictionality after the Social Web: A Computational Study of AO3," *MFS: Modern Fiction Studies* 70.1 (Spring 2024): 1-29
 
-## Platform Capitalism/Platform Cultures
-
-## Sociology of Literature
+## Platform Capitalism
+* Tressie McMillan Cottom, "Where Platform Capitalism and Racial Capitalism Meet: The Sociology of Race and Racism in Digital Society," *Sociology of Race and Ethnicity* 6.4 (October 2020) <https://journals.sagepub.com/doi/full/10.1177/2332649220949473> (pdf also available on Canvas)
