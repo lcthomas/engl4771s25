@@ -57,3 +57,9 @@ This page is currently in process. It is meant to act as a starting point for yo
 
 ## Platform Capitalism
 * Tressie McMillan Cottom, "Where Platform Capitalism and Racial Capitalism Meet: The Sociology of Race and Racism in Digital Society," *Sociology of Race and Ethnicity* 6.4 (October 2020) <https://journals.sagepub.com/doi/full/10.1177/2332649220949473> (pdf also available on Canvas)
+
+## Classics
+* Theodore Adorno and Max Horkheimer, *Dialectic of Enlightenment* (1944), especially the chapter "The Culture Industry: Enlightenment as Mass Deception"
+* Jean-François Lyotard, *The Postmodern Condition: A Report on Knowledge* (1979, 1984) (available via Canvas)
+* Pierre Bourdieu, *The Field of Cultural Production* (1994) (we read a short excerpt from the first essay in this collection)
+* McKenzie Wark, *A Hacker Manifesto* (2006)
