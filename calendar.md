@@ -23,6 +23,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 * Imogen Binnie, *Nevada* (2013), "Part One: Late October"
 * Kate Eichhorn, Ch 1 "A Brief History of Content in a Digital Era" from *Content*  (2022) (available in course readings folder on Canvas)
 * Kate Eichhorn, Ch 2 "User-Generated Content" from *Content* (2022) (available in course readings folder on Canvas)
+* We will also read and discuss excerpts from this interview in class (no need to read before class): Jamie Lauren Keiles, "Many Revolutions: Archiving the trans internet with Avery Dame-Griff," *The Baffler* July 2023 <https://thebaffler.com/outbursts/many-revolutions-lauren-keiles> (also available in additional readings folder on Canvas)
 * **Free write 1 due**
 
 ## Week 3
