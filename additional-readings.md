@@ -17,7 +17,7 @@ This page is currently in process. It is meant to act as a starting point for yo
     * Adam Fales, "The Unpostable," *Los Angeles Review of Books*, February 16, 2021, <https://lareviewofbooks.org/article/the-unpostable-on-patricia-lockwoods-no-one-is-talking-about-this/>
     * Anna Schectman, "The Voice of the Internet," *Representations* 168 (2024): 125-45
 * *The Bluest Eye*
-    * There is so much scholarship on this novel. This website is an interesting way to get an overview of scholarship on Morrison's novels: <https://blacklitnetwork.org/data-gallery/scholarship_on_toni_morrison/index.html>
+    * There is so much scholarship on this novel. This website is an interesting way to get an overview of some of the scholarship on Morrison's novels: <https://blacklitnetwork.org/data-gallery/scholarship_on_toni_morrison/index.html>
 
 ## Internet Writing and Histories
 * Jia Tolentino, "The I in Internet" from *Trick Mirror: Reflections on Self-Delusion* (2019)
@@ -63,4 +63,5 @@ This page is currently in process. It is meant to act as a starting point for yo
 * Theodore Adorno and Max Horkheimer, *Dialectic of Enlightenment* (1944), especially the chapter "The Culture Industry: Enlightenment as Mass Deception"
 * Jean-François Lyotard, *The Postmodern Condition: A Report on Knowledge* (1979, 1984) (available via Canvas)
 * Pierre Bourdieu, *The Field of Cultural Production* (1994) (we read a short excerpt from the first essay in this collection)
+* Lisa Nakamura, *Cybertypes: Race, Ethnicity, and Identity on the Internet* (2002)
 * McKenzie Wark, *A Hacker Manifesto* (2006)
