@@ -19,8 +19,9 @@ This page is currently in process. It is meant to act as a starting point for yo
 * *The Bluest Eye*
     * There is so much scholarship on this novel. This website is an interesting way to get an overview of scholarship on Morrison's novels: <https://blacklitnetwork.org/data-gallery/scholarship_on_toni_morrison/index.html>
 
-## Personal Essays about the Internet
+## Internet Writing and Histories
 * Jia Tolentino, "The I in Internet" from *Trick Mirror: Reflections on Self-Delusion* (2019)
+* Avery Dame-Griff, *The Two Revolutions: A History of the Transgender Internet* (2023)
 
 ## Amazon
 * Wayne Koestenbaum, "Introduction: On the Take," from *Selected Amazon Reviews* (2024)
