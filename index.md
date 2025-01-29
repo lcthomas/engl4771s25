@@ -12,6 +12,7 @@ nav_order: 1
 
 ## Course Info
 R 11:15-1:45 pm <br/>
+Uris Library 311
 
 ## Office Hours
 T 1-3 pm, and by appointment <br/>
