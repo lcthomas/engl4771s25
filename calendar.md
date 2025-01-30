@@ -29,7 +29,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 ## Week 3
 ### Thursday, February 6
 * Imogen Binnie, *Nevada* (2013), "Part Two: Late November"
-* Imogen Binnie, *Nevada* (2023), "Afterword"
+* Imogen Binnie, *Nevada* (2023), "Afterword" (also available via Canvas, in course readings folder)
 * McKenzie Wark, "Toward a Multiple Trans Literature," *The Nation*, July 7, 2022
 * Kate Eichhorn, and Ch 3 "Content Farms" from *Content* (2022)
 * **Free write 2 due**
