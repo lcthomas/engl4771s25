@@ -37,8 +37,8 @@ I reserve the right to change the course calendar as needed; adequate advance no
 ## Week 4
 ### Thursday, February 13
 * Kate Eichhorn, Ch 4 "Content Capital" from *Content* (2022)
-* Rupi Kaur, *Milk and Honey* (2014), "the hurting"
-    * Note: I have provided you with the complete *Milk and Honey* in our Course Readings folder on our Canvas site; you only need to read the first section.
+* Rupi Kaur, *Milk and Honey* (2014), "the hurting," "the loving"
+    * Note: I have provided you with the complete *Milk and Honey* in our Course Readings folder on our Canvas site; you only need to read the first two sections.
 * Seth Perlow, "The Handwritten Styles of Instagram Poetry," September 17, 2019, <https://post45.org/2019/09/the-handwritten-styles-of-instagram-poetry/>
 * Amalia Ulman: Excellences and Perfections, New Museum archives, <https://archive.newmuseum.org/exhibitions/2487>; Amalia Ulman's Instagram feed as archived on September 19, 2014, <https://webarchives.rhizome.org/excellences-and-perfections/20141014150552/http://instagram.com/amaliaulman>
 * Amalia Ulman, "Amalia Ulman on her new book and internet performances," *Art Forum*, May 18, 2018 <https://www.artforum.com/columns/amalia-ulman-on-her-new-book-and-internet-performances-239160/>
