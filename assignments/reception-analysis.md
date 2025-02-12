@@ -20,8 +20,8 @@ A reception analysis is an analysis of how a literary work was received and asse
 
 ## What is a Reception Analysis and How Do You Do It?
 Your reception analysis should seek to answer the following questions:
-1. When your selected text was first published, how was it received by professional critics?
-2. How was it received by general readers?
+1. When your selected text was first published, how was it received by professional critics? If applicable, you may also wish to consider how this reception has changed over time.
+2. How was it received by general readers? If applicable, you may also wish to consider how this reception has changed over time.)
 3. What does this reception history indicate about the text itself and/or about contemporary culture?
 
 The first question asks you to consider your text's reception history from the perspective of professional reviewers (including academics) and/or the publishing industry. To answer this question, you should investigate where your selected text was reviewed (which specific publications, the relative prestige and/or popularity of those publications, their role or place in the publishing industry) and who reviewed it. You might also think about whether your selected text has been included in literary anthologies or on course syllabi, whether it appears on "best of" lists, whether it has won any literary awards, whether it is or was a bestseller, whether it has been banned in any schools, etc.
@@ -41,7 +41,7 @@ In general, a good candidate literary text for this assignment has the following
 - Bonus (not required but certainly helpful): The text is well-known or has become well-known, or it was or remains a bestseller, or it has won literary awards, etc.
 
 ## Conducting Research
-You will need to be able to find and access both professional and "amateur" reviews and discussion of your selected literary text to complete this assignment. Simply typing the title of your text with the word review after it into Google (e.g., "no one is talking about this" review) can sometimes turn up a lot. But you may also need to dig deeper, especially if your text is less well-known, newer, or if you want to access scholarly articles or reviews.
+You will need to be able to find and access both professional and "amateur" reviews and discussion of your selected literary text to complete this assignment. Simply typing the title of your text with the word review after it into Google (e.g., "no one is talking about this" review) can sometimes turn up a lot. But you may also need to dig deeper, especially if your text is less well-known, newer or older, or if you want to access scholarly articles or reviews.
 
 Resources:
 - The [Additional Readings page](https://lindsaythomas.net/engl4771s25/additional-readings.html){:target="_blank"} on this course site includes selected reviews of our course texts.
