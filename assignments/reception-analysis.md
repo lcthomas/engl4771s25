@@ -21,7 +21,7 @@ A reception analysis is an analysis of how a literary work was received and asse
 ## What is a Reception Analysis and How Do You Do It?
 Your reception analysis should seek to answer the following questions:
 1. When your selected text was first published, how was it received by professional critics? If applicable, you may also wish to consider how this reception has changed over time.
-2. How was it received by general readers? If applicable, you may also wish to consider how this reception has changed over time.)
+2. How was it received by general readers? If applicable, you may also wish to consider how this reception has changed over time.
 3. What does this reception history indicate about the text itself and/or about contemporary culture?
 
 The first question asks you to consider your text's reception history from the perspective of professional reviewers (including academics) and/or the publishing industry. To answer this question, you should investigate where your selected text was reviewed (which specific publications, the relative prestige and/or popularity of those publications, their role or place in the publishing industry) and who reviewed it. You might also think about whether your selected text has been included in literary anthologies or on course syllabi, whether it appears on "best of" lists, whether it has won any literary awards, whether it is or was a bestseller, whether it has been banned in any schools, etc.
