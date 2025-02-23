@@ -19,4 +19,4 @@ At some point during week 7 or 8, you will meet with me to discuss your initial 
 The purpose of this meeting is to help you prepare to write your final project proposal, which is due Friday, March 14. I expect your ideas to grow and change during and after this meeting, so you will not be committed to anything we discuss.
 
 ## Scheduling
-Please use this Calendly link to schedule your meeting: <https://calendly.com/lcthomas/engl-4771-final-project-meetings>
+Please use this Calendly link to schedule your meeting: <https://calendly.com/lcthomas/engl-4771-final-project-meetings
