@@ -70,10 +70,12 @@ I reserve the right to change the course calendar as needed; adequate advance no
 ## Week 7
 ### Thursday, March 6
 * Toni Morrison, *The Bluest Eye* (1970), through page 163 (end with "...the face of her mother looming over her.")
-* Hilton Als, "Toni Morrison's Profound and Unrelenting Vision," *The New Yorker*, January 27, 2020
-* Read through the [Final Research Paper](https://lindsaythomas.net/engl4771s25/assignments/final-project/paper.html){:target="_blank"}, [Individual Meeting](https://lindsaythomas.net/engl4771s25/assignments/final-project/meeting.html){:target="_blank"}, and [Final Project Proposal](https://lindsaythomas.net/engl4771s25/assignments/final-project/proposal.html){:target="_blank"} assignment pages.
+* Marshall Libraries, "Banned Books 2024 - The Bluest Eye," <https://www.marshall.edu/library/bannedbooks/the-bluest-eye/>
+* Marcelo S O Goncalves, Isabelle Langrock, Jack LaViolette, and Katie Spoon, "Book bans in political context: Evidence from US schools", *PNAS Nexus* 3.6 (June 2024), <https://academic.oup.com/pnasnexus/article/3/6/pgae197/7689238> (pdf also available in course readings folder on Canvas)
+* Read through the [Final Research Paper](https://lindsaythomas.net/engl4771s25/assignments/final-project/paper.html){:target="_blank"} and [Final Project Proposal](https://lindsaythomas.net/engl4771s25/assignments/final-project/proposal.html){:target="_blank"} assignment pages.
 * **Free write 6 due**
 * **Meetings with instructor about final project this week or next**
+    * Recommended: * Hilton Als, "Toni Morrison's Profound and Unrelenting Vision," *The New Yorker*, January 27, 2020
 
 ## Week 8
 ### Thursday, March 13
@@ -82,8 +84,6 @@ I reserve the right to change the course calendar as needed; adequate advance no
     * Read/skim a selection of 5-star reviews
     * Read/skim a selection of 1-star reviews
 * Melanie Walsh and Maria Antoniak, "The Goodreads 'Classics': A Computational Study of Readers, Amazon, and Crowdsourced Amateur Criticism," *Journal of Cultural Analytics*, April 20, 2021
-* Marshall Libraries, "Banned Books 2024 - The Bluest Eye," <https://www.marshall.edu/library/bannedbooks/the-bluest-eye/>
-* Marcelo S O Goncalves, Isabelle Langrock, Jack LaViolette, and Katie Spoon, "Book bans in political context: Evidence from US schools", *PNAS Nexus* 3.6 (June 2024), <https://academic.oup.com/pnasnexus/article/3/6/pgae197/7689238> (pdf also available in course readings folder on Canvas)
 * **Free write 7 due**
 * **Meetings with instructor about final project this week or previous week**
 
