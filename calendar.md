@@ -75,7 +75,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 * Read through the [Final Research Paper](https://lindsaythomas.net/engl4771s25/assignments/final-project/paper.html){:target="_blank"} and [Final Project Proposal](https://lindsaythomas.net/engl4771s25/assignments/final-project/proposal.html){:target="_blank"} assignment pages.
 * **Free write 6 due**
 * **Meetings with instructor about final project this week or next**
-* Recommended: * Hilton Als, "Toni Morrison's Profound and Unrelenting Vision," *The New Yorker*, January 27, 2020
+* Recommended: Hilton Als, "Toni Morrison's Profound and Unrelenting Vision," *The New Yorker*, January 27, 2020
 
 ## Week 8
 ### Thursday, March 13
