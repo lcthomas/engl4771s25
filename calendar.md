@@ -150,4 +150,4 @@ I reserve the right to change the course calendar as needed; adequate advance no
 ### Thursday, May 1
 * **Final project presentations**
 
-### Final project due during finals week (TBA)
+### Final project due: Wednesday, May 14

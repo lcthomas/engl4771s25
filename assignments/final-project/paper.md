@@ -7,7 +7,7 @@ grand_parent: Assignments
 ---
 # Final Research Paper (30% of final grade)
 ## Due
-- By our class's assigned final exam day during finals week (TBA)
+- Wednesday, May 14 by the end of the day
 
 ## Requirements
 - ~5000 words (18-20 pages double-spaced), not including Works Cited or Bibliography.
