@@ -110,7 +110,6 @@ I reserve the right to change the course calendar as needed; adequate advance no
     * Read both of these shorter stories:
         * deathkawaiichick, "She didn't have to die - A black lives matter story," <https://www.wattpad.com/story/228011548>
         * jovinta_Stella, "Khalil, I Fight For You," <https://www.wattpad.com/story/227907152-khalil-i-fight-for-you>
-* OR: If you are a regular Wattpad reader, come to class ready to discuss your favorite (specific) Wattpad stories.
 * Sarah Brouillette, "Wattpad's Fictions of Care," July 13, 2022, <https://post45.org/2022/07/wattpads-fictions-of-care/>
 * **Free write 9 due**
 
