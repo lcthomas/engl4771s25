@@ -53,6 +53,7 @@ This page is currently in process. It is meant to act as a starting point for yo
 ## Romance Fiction
 * Jan Radway, *Reading the Romance: Women, Patriarchy, and Popular Literature* (1984)
 * J.D. Porter, Angelina Eimannsberger, James English, May Hathaway, and Ashna Yakoob, "Genre Juggernaut: Measuring 'Romance'," *Public Books*, November 10, 2023, <https://www.publicbooks.org/genre-juggernaut-measuring-romance/>
+* Chiara Giovanni, "Hetero Ever After? Romance Novels, Race, and the Limits of Social Dreaming," *Post45*, July 2023, <https://post45.org/2023/07/hetero-ever-after-romance-novels-race-and-the-limits-of-social-dreaming/#identifier_21_21237>
 
 ## Fans and Fandom Online
 * Aarthi Vadde and Richard Jean So, "Fandom and Fictionality after the Social Web: A Computational Study of AO3," *MFS: Modern Fiction Studies* 70.1 (Spring 2024): 1-29
