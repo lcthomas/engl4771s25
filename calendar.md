@@ -124,9 +124,9 @@ I reserve the right to change the course calendar as needed; adequate advance no
 * Aja Romano, "The secret behind internet erotica icon Chuck Tingle: his own life may be the best story he’s ever written," *Vox*, October 18, 2016, <https://www.vox.com/culture/2016/10/18/12775742/who-is-chuck-tingle-fake-explained>
 * Will Rowan, "Interview: Proving Love is Real with Dr. Chuck Tingle," *York Vision*, March 30, 2021, <https://www.yorkvision.co.uk/features/interview-proving-love-is-real-with-chuck-tingle/30/03/2021>
 * Chuck Tingle, *Space Raptor Butt Invasion* (2016) (please read both tinglers)
-* Gregory Goalwin, "Sad Puppies and SJWs: Symbolic Revolution and Challenges to Field Orthodoxy in the Struggle for Control of Science Fiction’s Hugo Awards," *Sociological Quarterly* 65.1 (2024): 61-84
 * Mark McGurl, Ch 1 "Fiction as a Service," from *Everything and Less: The Novel in the Age of Amazon* (2021)
 * **Free write 10 due**
+* Recommended (not required): Gregory Goalwin, "Sad Puppies and SJWs: Symbolic Revolution and Challenges to Field Orthodoxy in the Struggle for Control of Science Fiction’s Hugo Awards," *Sociological Quarterly* 65.1 (2024): 61-84
 
 ## Week 13
 ### Thursday, April 17
