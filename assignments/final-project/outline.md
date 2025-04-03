@@ -7,7 +7,7 @@ grand_parent: Assignments
 ---
 # Final Project Outline (5% of final grade)
 ## Due
-- Friday, April 18
+- Friday, April 25
 
 ## Requirements
 - As long as it needs to be.
