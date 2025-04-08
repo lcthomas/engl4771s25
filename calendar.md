@@ -138,9 +138,11 @@ I reserve the right to change the course calendar as needed; adequate advance no
 
 ## Week 14
 ### Thursday, April 24
-* Kate Eichhorn, Ch 5 "Journalism and Politics after Content" from *Content* (2022)
-* Helen Young and Geoff M. Boucher, "Authoritarian Politics and Conspiracy Fictions: The Case of QAnon," *Humanities* 11.61 (2022)
+* Work on final research paper outline for first half of class; open office hours for second half
 * **Free write 12 due**
+* Recommended (not required):
+    * Kate Eichhorn, Ch 5 "Journalism and Politics after Content" from *Content* (2022)
+    * Helen Young and Geoff M. Boucher, "Authoritarian Politics and Conspiracy Fictions: The Case of QAnon," *Humanities* 11.61 (2022)
 
 ### Friday, April 25
 * **Final project outline due**
