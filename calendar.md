@@ -139,7 +139,8 @@ I reserve the right to change the course calendar as needed; adequate advance no
 ## Week 14
 ### Thursday, April 24
 * Work on final research paper outline for first half of class; open office hours for second half
-* **Free write 12 due**
+* **Free write 12 due: Please bring a working draft of your final project outline to class.**
+    * You should have at least one section drafted and you should have a sense of the paper's overall structure.
 * Recommended (not required):
     * Kate Eichhorn, Ch 5 "Journalism and Politics after Content" from *Content* (2022)
     * Helen Young and Geoff M. Boucher, "Authoritarian Politics and Conspiracy Fictions: The Case of QAnon," *Humanities* 11.61 (2022)
