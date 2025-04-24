@@ -151,5 +151,11 @@ I reserve the right to change the course calendar as needed; adequate advance no
 ## Week 15
 ### Thursday, May 1
 * **Final project presentations**
+* Mairead
+* Jackie
+* Lauren
+* Ellie
+* Brayan
+* Parker 
 
 ### Final project due: Wednesday, May 14
